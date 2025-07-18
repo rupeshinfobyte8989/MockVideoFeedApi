@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "thumbnailUrl": "https://via.placeholder.com/150",
+    "caption": "Come here. This is where it starts!",
+    "views": 79,
+    "userName": "Jellyjelly"
+  },
+  {
+    "id": "2",
+    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnailUrl": "https://via.placeholder.com/150",
+    "caption": "Next adventure starts here.",
+    "views": 150,
+    "userName": "Alex"
+  }
+]
